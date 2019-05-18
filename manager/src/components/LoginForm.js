@@ -46,9 +46,6 @@ class LoginForm extends Component {
     return (
       <Card>
         <CardSection>
-          <Text style={{ paddingTop: 40 }}>Login Form</Text>
-        </CardSection>
-        <CardSection>
           <Input
             label="Email"
             placeholder="email@email.com"
